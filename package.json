@@ -1,0 +1,16 @@
+{
+  "name": "slack_post",
+  "version": "0.0.0",
+  "description": "",
+  "main": "call.js",
+  "dependencies": {
+    "request-promise": "~1.0.2",
+    "yargs": "~3.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon King",
+  "license": "BSD-2-Clause"
+}
